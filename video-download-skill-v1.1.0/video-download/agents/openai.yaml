@@ -1,0 +1,4 @@
+interface:
+  display_name: "本地高清视频下载"
+  short_description: "下载常用网站视频，优先最高可访问画质，保留原始质量并校验完整性"
+  default_prompt: "使用 $video-download 将这个视频链接以最高可访问画质下载到本地，并报告实际分辨率。"
