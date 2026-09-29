@@ -1,0 +1,11 @@
+﻿
+安装方法：
+
+1.复制Auto_Crop.aex到AE安装目录里的的Plugins文件夹里，
+
+2.复制AutoCrop.jsxbin和executeAutoCrop.jsxbin到AE脚本目录里，如：
+....Adobe After Effects 2024\Support Files\Scripts\ScriptUI Panels
+
+
+
+更多AE插件免费下载 www.LookAE.com
